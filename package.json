@@ -1,0 +1,28 @@
+{
+  "name": "Blockchain-Development",
+  "version": "1.0.0",
+  "description": "Blockchain development class Udemy David Joseph Katz",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest --watchAll",
+    "dev-test": "nodemon dev-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Schmittworks/Blockchain-Development.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Schmittworks/Blockchain-Development/issues"
+  },
+  "homepage": "https://github.com/Schmittworks/Blockchain-Development#readme",
+  "devDependencies": {
+    "jest": "^25.1.0",
+    "nodemon": "^2.0.2"
+  },
+  "dependencies": {
+    "crypto-js": "^4.0.0"
+  }
+}
